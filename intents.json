@@ -1,0 +1,30 @@
+{"intents": [
+  {"tag": "Body Pain",
+    "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+    "responses": ["1:- With great antimicrobial and anti-inflammatory properties, apple cider vinegar is definitely a ‘miracle cure’.\n2:- Cinnamon has potent anti-inflammatory, analgesic, and healing properties, \n    making it one of the most sought-after remedies for treating body pains as well as improving overall health.\n"],
+    "context_set": ""
+  },
+  {"tag": "Weakness",
+    "patterns": ["feeling low", "weakness", "feeling", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["1:- Take steps to control your stress and workload.\n2:- Deal with emotional problems instead of ignoring denying them.\n3:- Get enough sleep.\n4:- Eat a balanced diet.\n"],
+    "context_set": ""
+  },
+  {"tag": "headache",
+    "patterns": ["i have headache", "headache", "remedy for headache", "my head is paining a lot" , "Problem of headache"],
+    "responses": ["take a pain killer like(crocin) and took a wet towel on your head \nDrink Water. Inadequate hydration may lead you to develop a headache \nTry a B-Complex Vitamin"],
+    "context_set": ""
+  },
+  {
+    "tag": "cold",
+    "patterns": ["i have cold", "cold"],
+    "responses": ["1:- Get plenty of fluids. It helps break up your congestion, makes your throat moist, and keeps you away from getting dehydrated (water, sports drink, herbal tea)\n2:- take steam"],
+    "context_set": ""
+  },
+  {
+    "tag": "loose motion",
+    "patterns": ["i have loose motions","loose motion"],
+    "responses": ["1:- Hydrating the body is essential to recovering from loose motions\n2:- drink ORS\n3:- Avoid drinking anything that will further irritate the digestive tract, such as : (caffeinated drinks, alcohol, carbonated beverages, very hot drinks)"],
+    "context_set": ""
+  }
+]
+}
